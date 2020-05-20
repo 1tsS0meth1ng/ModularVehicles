@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.stream.Collectors;
 
-@Mod("Modular Vehicles")
+@Mod("modularvehicles")
 public class ModularVehicles {
     public ModularVehicles(){
         // Register the setup method for modloading
