@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "modularvehicles",
+    "name": "Modular Vehicles",
+    "description": "",
+    "version": "${version}",
+    "credits": "",
+    "logoFile": "",
+    "mcversion": "${mc_version}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Brendan Bath" ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+    ]
+  }
+]
